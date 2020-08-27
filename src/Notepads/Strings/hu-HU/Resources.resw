@@ -558,7 +558,7 @@
     <comment>TextEditor: EncodingIndicator "Reopen with Encoding" FlyoutItem display text.</comment>
   </data>
   <data name="TextEditor_EncodingIndicator_FlyoutItem_SaveWithEncoding" xml:space="preserve">
-    <value>Kitalálva a tartalomból</value>
+    <value>Kitalálás a tartalomból</value>
     <comment>TextEditor: EncodingIndicator "Save with Encoding" FlyoutItem display text.</comment>
   </data>
   <data name="FindAndReplace_NotificationMsg_InvalidRegex" xml:space="preserve">
